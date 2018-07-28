@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/edgarchaparro/code/my-react-app/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/edgarchaparro/code/my-react-app/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "471e57e59abd9d598f10e49a46e4ee95",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -454,7 +464,7 @@
           },
           {
             "name": "stripe",
-            "version": "^6.3.0"
+            "version": "^6.4.0"
           },
           {
             "name": "styled-components",
@@ -485,14 +495,16 @@
         "description": "Complete courses about the best tools and design systems. Prototype and build apps with React and Swift. 60 hours of video content and resource materials. No coding experience required.",
         "keywords": "react course, react for designers, ios development, sketch app, swift app course, arkit 2, after effects, create sketch plugin"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-28T22:00:00.890Z",
+      "buildTime": "2018-07-28T22:31:02.720Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "51311af0875b814ed2a3626066b24f67",
+        "contentDigest": "dc7030ea8d69d1b1b05db6b1ebeabe84",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -590,7 +602,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "19546f38e6a7e467430ae0a5592d6c83",
+        "contentDigest": "718d31b1956d28ea6fdfb0aa623fcb82",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -611,7 +623,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "68c39eda38d87499d6b79f70ca23548e",
+        "contentDigest": "5dd5b2e8babcd41b30cfbecfb3217eb3",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -632,7 +644,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6abecdacb0f3bd489a1b208e28edf00d",
+        "contentDigest": "ce87f79fc0556ed2350c6e15e1f14513",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -653,7 +665,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7166c0f8b1eb2a194b7f50fd568077ef",
+        "contentDigest": "0239e107bc056d2af934557f2133d56d",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -665,7 +677,7 @@
         "5i1yx4uz4yke-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDisKoa2_CnzMIwqvDqsKhFEDCjlp4EF3DkyEZelzDkMK_w5EKFgwcwp5JwqxlRS1Ww6QobjDCih3CosObw5sewrbCn8KSGT3CiTMHLcKsK0EAw71rW8OPw6w"
       }
     },
-    "PLUGINS_HASH": "273c2917cf7ac7e86bdebeaad1d19d47"
+    "PLUGINS_HASH": "a18fccc7ac6a6dbd9536795fe9fc54f9"
   },
   "componentDataDependencies": {
     "nodes": {

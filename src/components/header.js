@@ -56,7 +56,7 @@ class Header extends React.Component {
             amount={ 5000 }
             image="https://cl.ly/0K2f1V3K3h0D/download/Logo.jpg"
             token={this.handlePurchase}
-            stripeKey={'pk_test_4VuxMZhOiYXJlElaTf3qjAXh'}
+            stripeKey={'pk_test_X5kXAHYKZOHW839C3LOC6wbt'}
             >
             <button>Buy</button>
           </StripeCheckout>
