@@ -18,7 +18,7 @@ const Layout = ({ children, data }) => (
     <Header />
     {children()}
     <Footer data={data}>
-      Backgrounds made in Cinema 4D, iOS app in Swift, site in React. <a href="mailto:support@designcode.io">Email us</a> to ask anything. © 2018
+      Made by watching Design + Code. <a href="https://designcode.io/react">Give it a go!</a>  © 2018
     </Footer>
   </div>
 )
