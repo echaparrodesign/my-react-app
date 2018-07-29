@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/edgarchaparro/code/my-react-app/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/edgarchaparro/code/my-react-app/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "846afdb7c40fdd14553953cef4d075ad",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -495,16 +485,14 @@
         "description": "Complete courses about the best tools and design systems. Prototype and build apps with React and Swift. 60 hours of video content and resource materials. No coding experience required.",
         "keywords": "react course, react for designers, ios development, sketch app, swift app course, arkit 2, after effects, create sketch plugin"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-28T23:55:33.769Z",
+      "buildTime": "2018-07-29T00:35:36.041Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c7445548bf258cd9fbbf5a162d89934c",
+        "contentDigest": "31f3a2acb6d9aca18cabe8a37e62f75b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -602,7 +590,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e3dcce479a7771d8989a2f025c466d6",
+        "contentDigest": "f42f49a7f9de2af5a08ddc62b77dbd87",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -623,7 +611,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1a8ae311d598ebd12bd258ead67fddfd",
+        "contentDigest": "2f407ca3fb84455078baba5592954e6e",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -644,7 +632,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b11ad628a8532446fbee531610ba2b4",
+        "contentDigest": "061c1c5a953c09f2b8f7cda18e9ee0e4",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -665,7 +653,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "596fbc47ba7d1cf70e7c8a01df16acb7",
+        "contentDigest": "95767dd4dfda57e191c0463c11db112c",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
